@@ -1,0 +1,23 @@
+{
+    "now": "2025-01-09T06:35:55.380Z",
+    "perfNow": 96549,
+    "diagnosticCorrelation": "12ab28bb-62a7-46a1-94d6-345a8ed079ac",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "a365",
+        "buildVersion": "24.1217.07",
+        "environmentType": 9,
+        "resourceName": "jana-synapse-workspace-demo-01",
+        "resourceRegion": "southindia",
+        "resourceGroup": "rg-data-engineering-projects",
+        "subscriptionId": "fd3ca0ce-4a0b-4f9f-8fcd-21f04eca4681",
+        "sessionId": "jbJ7OchXkaiXj3iBIhrw3t",
+        "operationId": "@S\\\\F",
+        "gitType": "live",
+        "loggingKey": "6f5a409c-9f3e-4fd4-b908-abaac3e9fa58"
+    },
+    "additionalInfo": {
+        "selectedResource": "create view",
+        "selectedResourceType": "pipeline"
+    }
+}

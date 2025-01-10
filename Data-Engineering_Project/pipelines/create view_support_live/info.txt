@@ -1,0 +1,6 @@
+selected resource name:		create view
+selected resource type:		pipeline
+workspace name:			jana-synapse-workspace-demo-01
+workspace location:		southindia
+subscription id:		fd3ca0ce-4a0b-4f9f-8fcd-21f04eca4681
+time of download (UTC):		Thu, 09 Jan 2025 06:35:55 GMT

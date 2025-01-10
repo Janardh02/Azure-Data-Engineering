@@ -1,0 +1,15 @@
+{
+    "name": "jana-synapse-workspace-demo-01-WorkspaceDefaultStorage",
+    "type": "Microsoft.Synapse/workspaces/linkedservices",
+    "properties": {
+        "typeProperties": {
+            "url": "https://janasdatalake.dfs.core.windows.net"
+        },
+        "type": "AzureBlobFS",
+        "connectVia": {
+            "referenceName": "AutoResolveIntegrationRuntime",
+            "type": "IntegrationRuntimeReference"
+        },
+        "annotations": []
+    }
+}
